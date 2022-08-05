@@ -31,6 +31,7 @@
     </style>
 </head>
 <body>
+<!-- Data -->
 <nav style="background-color: white;" class="navbar navbar-expand-lg navbar-light ">
 <nav class="navbar navbar-light ">
   <a class="navbar-brand" href="#">
